@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">ProjectKotlinKmmi</string>
+    <string name="dining_icon">Dining Icon</string>
+    <string name="order_app">Order App</string>
+    <string name="pesanan">Pesanan</string>
+    <string name="icon">Icon</string>
+    <string name="makanan">Makanan</string>
+    <string name="minuman">Minuman</string>
+    <string name="list_berbagai_makanan">List Berbagai Makanan</string>
+    <string name="list_berbagai_minuman">List berbagai Minuman.</string>
+    <string name="type_pesanan">Type Pesanan</string>
+    <string name="batal">Batal</string>
+    <string name="nama_pesanan">Nama Pesanan</string>
+    <string name="nama_makanan">Nama Makanan</string>
+    <string name="harga_makanan">Harga Makanan</string>
+    <string name="order">Order</string>
+    <string name="harga_minuman">Harga Minuman</string>
+    <string name="nama_minuman">Nama Minuman</string>
+</resources>
